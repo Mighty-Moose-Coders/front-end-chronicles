@@ -1,0 +1,13 @@
+html,
+body {
+  background-color: theme("colors.blue.500");
+  @apply text-black;
+}
+
+@media (prefers-color-scheme: dark) {
+  html,
+  body {
+    background-color: theme("colors.indigo.900");
+    @apply text-white;
+  }
+}

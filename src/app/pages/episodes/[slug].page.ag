@@ -1,0 +1,38 @@
+<script lang="ts">
+import { slugify as _slugify } from '../../../core/utils';
+import { DatePipe } from '@angular/common';
+import { HttpClient } from '@angular/common/http';
+import { inject, signal } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
+
+defineMetadata({
+  imports: [DatePipe],
+});
+
+const episode = signal<any | null>(null);
+const http = inject(HttpClient);
+const route = inject(ActivatedRoute);
+
+const slug = route.snapshot.paramMap.get('slug');
+const slugify = _slugify;
+
+http.get<any[]>('/episodes.json').subscribe((items) => {
+  const found = items.find((ep) => slugify(ep.title) === slug);
+  episode.set(found);
+});
+
+
+
+</script>
+
+<template>@if (episode(); as ep) {
+<h1>{{ ep.title }}</h1>
+<p><em>{{ ep.pubDate | date : 'medium' }}</em></p>
+<div [innerHTML]="ep.content"></div>
+@if (ep.enclosure?.url) {
+<audio controls [src]="ep.enclosure.url"></audio>
+}
+} @else {
+<p>Chargement...</p>
+  }
+</template>

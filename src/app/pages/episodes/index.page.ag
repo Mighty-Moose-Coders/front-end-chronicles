@@ -1,0 +1,14 @@
+<script lang="ts">
+import { inject } from '@angular/core';
+import { Router } from '@angular/router';
+
+
+const router = inject(Router);
+
+// Redirection immédiate
+router.navigate(['/']);
+</script>
+
+<template>
+<p>Redirection vers la page d’accueil…</p>
+</template>

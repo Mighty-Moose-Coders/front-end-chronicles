@@ -1,0 +1,24 @@
+name: Auto Commit Every 6 Hours
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Toutes les 6 heures
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Git config
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit vide
+        run: |
+          git commit --allow-empty -m "chore: auto trigger Netlify build 🚀"
+          git push origin HEAD

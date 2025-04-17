@@ -1,0 +1,232 @@
+[
+  {
+    "title": "Front-End Chronicles #23 - State of JS 2024",
+    "pubDate": "Fri, 07 Feb 2025 11:02:38 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/98154840/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-7%2Fa16836a4-d7f9-bdb2-3c4e-c014e2d446b8.mp3",
+      "length": "51031899",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on fait le point sur State of JS 2024</p>\n<p><br><strong>Notes de l&#39;épisode :</strong><br>- <a href=\"https://2024.stateofjs.com/en-US\" target=\"_blank\" rel=\"ugc noopener noreferrer\">State of JS 2024</a><br /><br></p>\n<p><em>Front-End Chronicles est un podcast indépendant créé par deux devs passionnés : Benjamin Auzanneau et Denis Souron.</em><em>\n\nSi vous êtes une société / une association / une personne, n’hésitez pas venir nous parler pour des questions ou si jamais vous avez des idées pour les prochains Front-End Chronicles !</em></p>\n<p><em>Nos MP et/ou les commentaires sont ouverts !</em></p>\n<p>\nVous pouvez nous retrouver sur :<br><a href=\"https://bento.me/fec\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bento.me/fec</a><br><a href=\"https://www.linkedin.com/in/bauzanneau/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://www.linkedin.com/in/bauzanneau/</a><br><a href=\"https://x.com/necraidan\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://x.com/necraidan</a><br><a href=\"https://bsky.app/profile/necraidan.bsky.social\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bsky.app/profile/necraidan.bsky.social</a><br><a href=\"https://www.linkedin.com/in/denis-souron/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://www.linkedin.com/in/denis-souron/</a><br><strong>\nMusique du générique :\nWelcome to Legacy par </strong><a href=\"https://www.linkedin.com/in/bauzanneau/\" target=\"_blank\" rel=\"ugc noopener noreferrer\"><strong>Benjamin Auzanneau</strong></a><strong></strong></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #22 - Comment coder de façon homogène dans un projet front-end ?",
+    "pubDate": "Thu, 12 Sep 2024 07:26:35 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/91609050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-12%2F4d2ac427-b46a-0fac-33d4-adb3194b9698.mp3",
+      "length": "86745677",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on vous embarque sur des problématiques de projets inhérentes aux front-end (mais aussi dev en général) et on essaie d'y répondre.</p>\n<p><br /><strong>Notes de l'épisode :</strong><br />- <a href=\"https://eslint.org\" target=\"_blank\" rel=\"ugc noopener noreferrer\">ESLint</a><br>- <a href=\"https://code-garage.fr/blog/qu-est-ce-que-le-cargo-cult-dans-le-developpement-logiciel/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">Le cargo cult</a><br>- <a href=\"https://biomejs.dev\" target=\"_blank\" rel=\"ugc noopener noreferrer\">biomejs</a><br></p>\n<p><em>Front-End Chronicles est un podcast indépendant créé par deux devs passionnés : Benjamin Auzanneau et Denis Souron.</em><em>\n\nSi vous êtes une société / une association / une personne, n’hésitez pas venir nous parler pour des questions ou si jamais vous avez des idées pour les prochains Front-End Chronicles !</em></p>\n<p><em>Nos MP et/ou les commentaires sont ouverts !</em></p>\n<p>\nVous pouvez nous retrouver sur :<br /><a href=\"https://bento.me/fec\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bento.me/fec</a><br /><a href=\"https://www.linkedin.com/in/bauzanneau/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://www.linkedin.com/in/bauzanneau/</a><br /><a href=\"https://x.com/necraidan\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://x.com/necraidan</a><br /><a href=\"https://bsky.app/profile/necraidan.bsky.social\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bsky.app/profile/necraidan.bsky.social</a><br /><a href=\"https://www.linkedin.com/in/denis-souron/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://www.linkedin.com/in/denis-souron/</a><br /><strong>\nMusique du générique :\nWelcome to Legacy par </strong><a href=\"https://www.linkedin.com/in/bauzanneau/\" target=\"_blank\" rel=\"ugc noopener noreferrer\"><strong>Benjamin Auzanneau</strong></a><strong></strong></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #21 - Bun",
+    "pubDate": "Fri, 03 May 2024 13:25:55 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/86265175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-3%2F7149cfb7-72ad-35b0-7062-44d339c6c509.mp3",
+      "length": "34911213",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on revient sur l&#39;arrivée de bun sur le marché des moteurs d&#39;éxécution JavaScript</p>\n<p>\n<br><strong>Notes de l&#39;épisode :</strong>\n<br>\n<span>- Bun is a fast JavaScript all-in-one toolkit :</span>\n <a href=\"https://bun.sh\">https://bun.sh</a>\n<br>\n<span>- Le repo awesome bun :</span>\n <a href=\"https://github.com/oven-sh/awesome-bun\">https://github.com/oven-sh/awesome-bun</a>\n<br>\n<span>- Le fameux xkcd :</span>\n <a href=\"https://xkcd.com/927/\">https://xkcd.com/927/</a>\n<br>\n</p>\n<p><em>Front-End Chronicles est un podcast indépendant créé par deux devs passionnés : Benjamin Auzanneau et Denis Souron.</em><em>\n\nSi vous êtes une société / une association / une personne, n’hésitez pas venir nous parler pour des questions ou si jamais vous avez des idées pour les prochains Front-End Chronicles !</em></p>\n<p><em>Nos MP et/ou les commentaires sont ouverts !</em></p>\n<p>\nVous pouvez nous retrouver sur :<br><a href=\"https://bento.me/fec\">https://bento.me/fec</a><br><a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br><a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><br><a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><br><strong>\nMusique du générique :\nWelcome to Legacy par </strong><a href=\"https://www.linkedin.com/in/bauzanneau/\"><strong>Benjamin Auzanneau</strong></a><strong></strong></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #20 - Angular Renaissance",
+    "pubDate": "Thu, 15 Feb 2024 19:40:20 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/82724618/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-15%2F8c33b079-0d4d-5cc4-b803-3720ba866fe4.mp3",
+      "length": "69007488",
+      "type": "audio/mpeg"
+    },
+    "content": "Dans cet épisode, on revient sur le lancement en grande pompe du nouveau rebranding d'Angular avec la version 17 (et 17.1 et 17.2 !)\nOn vous partage également quelques communautés autour d'Angular !\nNotes de l'épisode :\nAngular press-kit: https://angular.dev/press-kit\nChangelogs d'Angular: https://angular.dev\nAnalogJS: https://analogjs.org\nExemple de fichier .ng (qui est un .analog aujourd'hui): https://github.com/analogjs/analog/pull/823/files#diff-23c50cf5a77c80e65f4f3b008a7192b05e0b80843a183daf3b770c8a7f24421b\nAngular Devs France: https://angulardevs.fr\nBonjour Angular: https://www.bonjour-angular.com\nAngular Nexus: https://angular-nexus.org\nAngular Challengers: https://angular-challenges.vercel.app\nFront-End Chronicles est un podcast indépendant créé par deux devs passionnés : Benjamin Auzanneau et Denis Souron.\n\nSi vous êtes une société / une association / une personne, n’hésitez pas venir nous parler pour des questions ou si jamais vous avez des idées pour les prochains Front-End Chronicles !\nNos MP et/ou les commentaires sont ouverts !\n\nVous pouvez nous retrouver sur :https://bento.me/fechttps://www.linkedin.com/in/bauzanneau/https://twitter.com/necraidanhttps://www.linkedin.com/in/denis-souron/\nMusique du générique :\nWelcome to Legacy par Benjamin Auzanneau\n"
+  },
+  {
+    "title": "Front-End Chronicles #19 - Rex Devfest Nantes 2023",
+    "pubDate": "Thu, 16 Nov 2023 00:42:22 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/78515262/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2Fe75091b4-0faf-e533-9d67-0666bac952c0.mp3",
+      "length": "40475086",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode de la rentrée, on revient sur le Devfest Nantes 2023 et vous présente notre top 6 des confs à revoir</p>\n<p><br><strong>Notes de l&#39;épisode :</strong>\nL'AGC : retour sur l'ordinateur qui a amené l'humanité sur la Lune: <a href=\"https://www.youtube.com/watch?v=OWmcNQj4CQs&list=PLuZ_sYdawLiUHU4E1i5RrFsRN_lQcgPwT&index=17\">https://www.youtube.com/watch?v=OWmcNQj4CQs&list=PLuZ_sYdawLiUHU4E1i5RrFsRN_lQcgPwT&index=17</a><br>\nLa compression Web : comment (re)prendre le contrôle ?: <a href=\"https://www.youtube.com/watch?v=JARVYdwNSrI&list=PLuZ_sYdawLiUHU4E1i5RrFsRN_lQcgPwT&index=19\">https://www.youtube.com/watch?v=JARVYdwNSrI&list=PLuZ_sYdawLiUHU4E1i5RrFsRN_lQcgPwT&index=19</a><br>\nAprès l'ordi 8 bit voici la carte VGA sur breadboard: <a href=\"https://www.youtube.com/watch?v=aBjtkNY5UaE&list=PLuZ_sYdawLiUHU4E1i5RrFsRN_lQcgPwT&index=20\">https://www.youtube.com/watch?v=aBjtkNY5UaE&list=PLuZ_sYdawLiUHU4E1i5RrFsRN_lQcgPwT&index=20</a><br>\nFinies les apps, pensez libs avec Nx !: <a href=\"https://www.youtube.com/watch?v=K8wYtBGzmsI&list=PLuZ_sYdawLiUHU4E1i5RrFsRN_lQcgPwT&index=44\">https://www.youtube.com/watch?v=K8wYtBGzmsI&list=PLuZ_sYdawLiUHU4E1i5RrFsRN_lQcgPwT&index=44</a><br>\nWebAssembly beyond the browser: <a href=\"https://www.youtube.com/watch?v=KbTYUsC4RGA&list=PLuZ_sYdawLiUHU4E1i5RrFsRN_lQcgPwT&index=26\">https://www.youtube.com/watch?v=KbTYUsC4RGA&list=PLuZ_sYdawLiUHU4E1i5RrFsRN_lQcgPwT&index=26</a><br>\nAngular Signals : how do they work ?: <a href=\"https://www.youtube.com/watch?v=U2pmBPU6Hc4&list=PLuZ_sYdawLiUHU4E1i5RrFsRN_lQcgPwT&index=27\">https://www.youtube.com/watch?v=U2pmBPU6Hc4&list=PLuZ_sYdawLiUHU4E1i5RrFsRN_lQcgPwT&index=27</a><br>\n\n</p>\n<p><em>Front-End Chronicles est un podcast indépendant créé par deux devs passionnés : Benjamin Auzanneau et Denis Souron.</em><em>\n\nSi vous êtes une société / une association / une personne, n’hésitez pas venir nous parler pour des questions ou si jamais vous avez des idées pour les prochains Front-End Chronicles !</em></p>\n<p><em>Nos MP et/ou les commentaires sont ouverts !</em></p>\n<p>\nVous pouvez nous retrouver sur :<br><a href=\"https://bento.me/fec\">https://bento.me/fec</a><br><a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br><a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><br><a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><br><strong>\nMusique du générique :\nWelcome to Legacy par </strong><a href=\"https://www.linkedin.com/in/bauzanneau/\"><strong>Benjamin Auzanneau</strong></a><strong></strong></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #18 - De JSLint à ESLint, l'évolution des principaux linters JavaScript.",
+    "pubDate": "Thu, 14 Sep 2023 10:14:04 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/75795554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-14%2Fda2b59ae-f533-c1b7-7d6c-ca7a1f14d94d.mp3",
+      "length": "48036803",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode de la rentrée, on revient sur l&#39;histoire d&#39;ESLint.</p>\n<p><br><strong>Notes de l&#39;épisode :</strong>\nESLint: <a href=\"https://eslint.org/\">https://eslint.org/</a>\nJSHint: <a href=\"https://jshint.com/\">https://jshint.com/</a>\nJSLint: <a href=\"https://www.jslint.com/\">https://www.jslint.com/</a>\nPrettier: <a href=\"https://prettier.io\">https://prettier.io</a></p>\n<p><br></p>\n<p><em>Front-End Chronicles est un podcast indépendant créé par deux devs passionnés : Benjamin Auzanneau et Denis Souron.</em><em>\n\nSi vous êtes une société / une association / une personne, n’hésitez pas venir nous parler pour des questions ou si jamais vous avez des idées pour les prochains Front-End Chronicles !</em></p>\n<p><em>Nos MP et/ou les commentaires sont ouverts !</em></p>\n<p>\nVous pouvez nous retrouver sur :<br><a href=\"https://bento.me/fec\">https://bento.me/fec</a><br><a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br><a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><br><a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><br><strong>\nMusique du générique :\nWelcome to Legacy par </strong><a href=\"https://www.linkedin.com/in/bauzanneau/\"><strong>Benjamin Auzanneau</strong></a><strong></strong></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #17 - Compilation, Linters et Guidelines",
+    "pubDate": "Thu, 13 Jul 2023 10:55:29 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/73350956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-13%2F21519a1b-c6a9-a0a3-919e-37e34a6d5fb4.mp3",
+      "length": "43613123",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode de l'été, on a voulu sortir un peu du web pour lancer une petite discussion autour de la compilation et de l'origine des linters.<br></p>\n<p><br><strong>Notes de l&#39;épisode :</strong><br>\nRust : <a href=\"https://www.rust-lang.org/fr\">https://www.rust-lang.org/fr</a><br>\nLa Nasa et la récursion: <a href=\"https://craftofcoding.wordpress.com/2021/03/08/why-does-nasa-not-allow-recursion/\">https://craftofcoding.wordpress.com/2021/03/08/why-does-nasa-not-allow-recursion/</a><br>\nAngular Langage Service : <a href=\"https://angular.io/guide/language-service\">https://angular.io/guide/language-service</a><br>\n\n\n</p>\n<p><br></p>\n<p><em>Front-End Chronicles est un podcast indépendant créé par deux devs passionnés : 🎙️Benjamin Auzanneau et 🍁 Denis Souron.</em><br><em>\nSi vous êtes une société / une association / une personne, n’hésitez pas venir nous parler pour des questions ou si jamais vous avez des idées pour les prochains Front-End Chronicles !</em></p>\n<p><em>Nos MP et/ou les commentaires sont ouverts !</em></p>\n<p><br>\nVous pouvez nous retrouver sur :<br><a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br><a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong></strong><br><a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><br><br><br><strong>\nMusique du générique :</strong><br><strong>\nWelcome to Legacy par </strong><a href=\"https://www.linkedin.com/in/bauzanneau/\"><strong>Benjamin Auzanneau</strong></a><strong></strong></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #16 - No Signals",
+    "pubDate": "Mon, 01 May 2023 19:18:36 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/69507766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-1%2F6d6d4d22-b571-beda-6a31-0bc92043f3f1.mp3",
+      "length": "62682930",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on parle des signals et encore un peu d&#39;Angular !<br>\nOn repart de la base de ce qu&#39;est un signal jusqu&#39;à parler des implémentations dans les frameworks.</p>\n<p><br><strong>Notes de l&#39;épisode :</strong><br>\nAngular : <a href=\"https://angular.io\">https://angular.io</a><br>\nVue and signals : <a href=\"https://vuejs.org/guide/extras/reactivity-in-depth.html#connection-to-signals\">https://vuejs.org/guide/extras/reactivity-in-depth.html#connection-to-signals</a><br>\nGetting started with standalone components : <a href=\"https://angular.io/guide/standalone-components\">https://angular.io/guide/standalone-components</a><br>\nRFCs Angular : <a href=\"https://github.com/angular/angular/discussions/categories/rfcs\">https://github.com/angular/angular/discussions/categories/rfcs</a></p>\n<p><br></p>\n<p><em>Front-End Chronicles est un podcast indépendant créé par deux devs passionnés : 🎙️Benjamin Auzanneau et 🍁 Denis Souron.</em><br><em>\nSi vous êtes une société / une association / une personne, n’hésitez pas venir nous parler pour des questions ou si jamais vous avez des idées pour les prochains Front-End Chronicles !</em></p>\n<p><em>Nos MP et/ou les commentaires sont ouverts !</em></p>\n<p><br>\nVous pouvez nous retrouver sur :<br><a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br><a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong></strong><br><a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><br><br><br><strong>\nMusique du générique :</strong><br><strong>\nWelcome to Legacy par </strong><a href=\"https://www.linkedin.com/in/bauzanneau/\"><strong>Benjamin Auzanneau</strong></a><strong></strong></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #15 - Angular 13 à Angular 15.1",
+    "pubDate": "Wed, 22 Feb 2023 16:57:58 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/65467196/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-22%2F314215508-44100-2-e4e4a4bb64d3f.m4a",
+      "length": "34514773",
+      "type": "audio/x-m4a"
+    },
+    "content": "<p>Dans cet épisode, on parle des features d'Angular de 13 à 15.1.<br>\nSi vous avez pensé à migrer mais que vous avez loupé de nouvelles features, cet épisode est fait pour vous !<br>\n<br>\n<strong>Notes de l'épisode :</strong><br>\nAngular : <a href=\"https://angular.io\">https://angular.io</a><br>\nThe satisfies Operator : <a href=\"https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-beta/#the-satisfies-operator\">https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-beta/#the-satisfies-operator</a><br>\nGetting started with standalone components : <a href=\"https://angular.io/guide/standalone-components\">https://angular.io/guide/standalone-components</a><br>\n</p>\n<p><em>Front-End Chronicles est un podcast indépendant créé par deux devs passionnés : 🎙️Benjamin Auzanneau et 🍁 Denis Souron.<br>\nSi vous êtes une société / une association / une personne, n’hésitez pas venir nous parler pour des questions ou si jamais vous avez des idées pour les prochains Front-End Chronicles !</em></p>\n<p><em>Nos MP et/ou les commentaires sont ouverts !</em></p>\n<p><br>\nVous pouvez nous retrouver sur :<br>\n<a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br>\n<a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong><br>\n</strong><br>\n<a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><strong><br>\n<br>\n<br>\nMusique du générique :<br>\nWelcome to Legacy par </strong><a href=\"https://www.linkedin.com/in/bauzanneau/\"><strong>Benjamin Auzanneau</strong></a><strong><br>\n</strong></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #14 - De webpack à turbopack",
+    "pubDate": "Wed, 28 Dec 2022 12:16:26 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/62777546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-28%2F3d89a3cf-1a1c-68f5-a757-83580f1d8081.mp3",
+      "length": "55787439",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on parle de l'arrivée de turbopack.<br>\nMais d'où vient-on ?\nOn passe en revue les bundlers et leurs ancètres. \n<strong><br>\n<br>\nNotes de l'épisode :</strong><br>\nGrunt : <a href=\"https://gruntjs.com\">https://gruntjs.com</a><br>\nGulp : <a href=\"https://gulpjs.com\">https://gulpjs.com</a><br>\nWebpack : <a href=\"https://webpack.js.org\">https://webpack.js.org</a><br>\nRollup : <a href=\"https://rollupjs.org/guide/en/\">https://rollupjs.org/guide/en/</a><br>\nesbuild : <a href=\"https://esbuild.github.io\">https://esbuild.github.io</a><br>\nvite : <a href=\"https://vitejs.dev\">https://vitejs.dev</a><br>\nTurbopack : <a href=\"https://turbo.build/pack\">https://turbo.build/pack</a><br>\nNext13 : <a href=\"https://nextjs.org/blog/next-13\">https://nextjs.org/blog/next-13</a><br>\n<p><br>\nVous pouvez nous retrouver sur :<br>\n<a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br>\n<a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong><br>\n</strong><br>\n<a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><strong><br>\n<br>\n<br>\nMusique du générique :<br>\nWelcome to Legacy par </strong><a href=\"https://www.linkedin.com/in/bauzanneau/\"><strong>Benjamin Auzanneau</strong></a><strong><br>\n</strong></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #13 - Dis Jamy, comment mon paquet est résolu avec mon package manager ? 🔎📦💪",
+    "pubDate": "Wed, 19 Oct 2022 23:07:05 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/59316061/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-21%2F1c61ae28-b024-a905-c57d-845a09c0f2de.mp3",
+      "length": "60352389",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on parle de NPM, PNPM, Yarn et de leur mode de résolution des dépendances.<br>\n<strong><br>\n<br>\nNotes de l'épisode :</strong><br>\nNPM : <a href=\"https://docs.npmjs.com\">https://docs.npmjs.com</a><br>\nPNPM : <a href=\"https://pnpm.io\">https://pnpm.io</a><br>\nYarn : <a href=\"https://yarnpkg.com\">https://yarnpkg.com</a><br>\nJavaScript package managers compared: npm, Yarn, or pnpm? : <a href=\"https://blog.logrocket.com/javascript-package-managers-compared/\">https://blog.logrocket.com/javascript-package-managers-compared/</a></p>\n<p><br>\nVous pouvez nous retrouver sur :<br>\n<a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br>\n<a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong><br>\n</strong><br>\n<a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><strong><br>\n<br>\n<br>\nMusique du générique :<br>\nWelcome to Legacy par </strong><a href=\"https://www.linkedin.com/in/bauzanneau/\"><strong>Benjamin Auzanneau</strong></a><strong><br>\n</strong></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #12 - Focus sur le contenu 🦖",
+    "pubDate": "Mon, 29 Aug 2022 11:34:23 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/55753159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-29%2F6fdc729b-82f2-e508-3acf-22f3609583b1.mp3",
+      "length": "44612046",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on parle de Docusaurus et de ce que peut nous apporter cet outil.<br>\n<strong><br>\n<br>\nNotes de l'épisode :</strong><br>\nSite de docusaurus : <a href=\"https://docusaurus.io\">https://docusaurus.io</a><br>\nNextjs : <a href=\"https://nextjs.org\">https://nextjs.org</a><br>\nJamstack generators : <a href=\"https://jamstack.org/generators/\">https://jamstack.org/generators/</a><br>\nThread reddit vuepress vs vitepress : <a href=\"https://www.reddit.com/r/vuejs/comments/t02hhc/vitepress_10_or_vuepress_3/\">https://www.reddit.com/r/vuejs/comments/t02hhc/vitepress_10_or_vuepress_3/</a><br>\nThread GitHub vuepress vs vitepress : <a href=\"https://github.com/vuepress/vuepress-next/discussions/48\">https://github.com/vuepress/vuepress-next/discussions/48</a><br>\n\n\n</p>\n<p><br>\nVous pouvez nous retrouver sur :<br>\n<a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br>\n<a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong><br>\n</strong><br>\n<a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><strong><br>\n<br>\n<br>\nMusique du générique :<br>\nWelcome to Legacy par </strong><a href=\"https://www.linkedin.com/in/bauzanneau/\"><strong>Benjamin Auzanneau</strong></a><strong><br>\n</strong></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #11 - Discovery : Qwik, nous, c'est la perf !",
+    "pubDate": "Wed, 01 Jun 2022 00:17:09 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/52849499/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-1%2F60203f46-8565-c07b-4e16-1c5801892946.mp3",
+      "length": "56406018",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on parle de Qwik et de ce que peut nous apporter ce nouveau framework !<br>\n<strong><br>\n<br>\nNotes de l'épisode :</strong><br>\nRepo de Qwik : <a href=\"https://github.com/BuilderIO/qwik\">https://github.com/BuilderIO/qwik</a><br>\nSérie d'article sur Qwik et ses concepts : <a href=\"https://dev.to/builderio/html-first-javascript-last-the-secret-to-web-speed-4ic9\">https://dev.to/builderio/html-first-javascript-last-the-secret-to-web-speed-4ic9</a><br>\nResumable vs Hydratation : <a href=\"https://github.com/BuilderIO/qwik/blob/main/packages/docs/pages/docs/concepts/resumable.mdx\">https://github.com/BuilderIO/qwik/blob/main/packages/docs/pages/docs/concepts/resumable.mdx</a><br>\n\n<p><br>\nVous pouvez nous retrouver sur :<br>\n<a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br>\n<a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong><br>\n</strong><br>\n<a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><strong><br>\n<br>\n<br>\n<strong>Musique du générique :</strong><br>\nWelcome to Legacy par <a href=\"https://www.linkedin.com/in/bauzanneau/\">Benjamin Auzanneau</a><br>\n"
+  },
+  {
+    "title": "Front-End Chronicles #10 - Qu'est-ce qu'un développeur front-end en 2022 ?",
+    "pubDate": "Tue, 12 Apr 2022 09:00:00 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/50423089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-12%2F67bf8388-64f1-6c87-90e7-e52a7bd9630a.mp3",
+      "length": "135221347",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Épisode anniversaire !<br>\nAu format \"<em>talk and chill</em>\", on reçoit deux invités également développeur front-end pour discuter autour du thème \"<em>Qu'est-ce qu'un développeur front-end en 2022 ?</em>\"<br>\nÉpisode un peu plus long que d'habitude, on y aborde le dev, le front-end en général, les frameworks, les ide...<br>\n<br>\nMerci Tristan et Gaël pour votre participation !<br>\n</p>\n<p><strong>Notes de l'épisode :</strong><br>\nJetBrains : <a href=\"https://www.jetbrains.com/fr-fr/products/#type=ide\">Les IDE de JetBrains</a><br>\nFleet : <a href=\"https://www.jetbrains.com/fr-fr/fleet/\">L'IDE léger de JetBrains</a><br>\nRoadmap: <a href=\"https://roadmap.sh/frontend\">La roadmap front-end</a><br>\nState of JS : <a href=\"https://stateofjs.com/\">Le fameux sondage sur écosystème JS</a><br>\n<br>\n<strong>Vous pouvez retrouver nos invités sur :</strong><br>\n<a href=\"https://www.linkedin.com/in/tristan-nicoleau-a4b5079a/\">Tristan Nicoleau sur linkedin</a><br>\n<a href=\"https://www.linkedin.com/in/ga%C3%ABl-dupont-13b11a114/\">Gaël Dupount sur linkedin</a></p>\n<p><strong>Vous pouvez nous retrouver sur :</strong><br>\nBenjamin Auzanneau <a href=\"https://www.linkedin.com/in/bauzanneau/\">sur linkedin</a> et <a href=\"https://twitter.com/necraidan\">sur twitter</a><br>\n<br>\n<a href=\"https://www.linkedin.com/in/denis-souron/\">Denis Souron sur linkedin</a><br>\n<br>\n<br>\n<strong>Musique du générique :</strong><br>\nWelcome to Legacy par <a href=\"https://www.linkedin.com/in/bauzanneau/\">Benjamin Auzanneau</a><br>\n</p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #9 - CSS en 2022",
+    "pubDate": "Tue, 08 Feb 2022 10:15:57 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/47357243/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-8%2Fe040f452-85a8-2b9c-5d1c-95d8abe9c744.mp3",
+      "length": "60774528",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on parle de CSS et de quelques features pour 2022 !<br>\n<strong><br>\n<br>\nNotes de l'épisode :</strong><br>\nLivre de CSS grid : <a href=\"https://www.amazon.fr/CSS-Grid-Layout-allez-enfin/dp/2212676832\">lien pour Amazon (lien non traqué)</a><br>\nDoc CSS grid : <a href=\"https://developer.mozilla.org/fr/docs/Web/CSS/grid\">https://developer.mozilla.org/fr/docs/Web/CSS/grid</a><br>\n\n<p><br>\nVous pouvez nous retrouver sur :<br>\n<a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br>\n<a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong><br>\n</strong><br>\n<a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><strong><br>\n<br>\n<br>\nMusique du générique :<br>\n</strong>Early by <a href=\"https://soundcloud.com/aka-dj-quads\">Dj Quads</a><br>\nMusic released by: <a href=\"https://www.chilloutmedia.com/\">Chill Out Records</a></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #8 - Discovery : En route pour Nuxt 3",
+    "pubDate": "Fri, 31 Dec 2021 15:15:16 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/45530701/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-31%2Fd28a680e-f0fd-4b95-ea98-cc06b0d15ca1.mp3",
+      "length": "53980183",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on parle NuxtJS et de ce que va apporter Nuxt 3 !<br>\n<strong><br>\n<br>\nNotes de l'épisode :</strong><br>\nHistoire de NuxtJS : <a href=\"https://nuxtlabs.com/nuxtjs\">https://nuxtlabs.com/nuxtjs</a><br>\nSite de NuxtJS : <a href=\"https://nuxtjs.org\">https://nuxtjs.org</a><br>\nSite de NuxtJS V3 : <a href=\"https://v3.nuxtjs.org\">https://v3.nuxtjs.org</a><br>\nVue 3 : <a href=\"https://v3.vuejs.org\">https://v3.vuejs.org</a><br>\n\n<p><br>\nVous pouvez nous retrouver sur :<br>\n<a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br>\n<a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong><br>\n</strong><br>\n<a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><strong><br>\n<br>\n<br>\nMusique du générique :<br>\n</strong>Early by <a href=\"https://soundcloud.com/aka-dj-quads\">Dj Quads</a><br>\nMusic released by: <a href=\"https://www.chilloutmedia.com/\">Chill Out Records</a></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #7 - Devfest Nantes 2021",
+    "pubDate": "Thu, 04 Nov 2021 17:09:52 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/42817298/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-4%2F748bf9af-a94b-a1f2-f8aa-22bc69fd3d17.mp3",
+      "length": "62502371",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on parle du Devfest Nantes 2021<br>\n<strong><br>\n<br>\nNotes de l'épisode :</strong><br>\nComponent Driven Development : <a href=\"https://www.youtube.com/watch?v=nuDwgjkRNSI\">https://www.youtube.com/watch?v=nuDwgjkRNSI</a><br>\nArt &amp; Entropie: Du chaos dans ton frontend : <a href=\"https://www.youtube.com/watch?v=29Z_P02aTWM\">https://www.youtube.com/watch?v=29Z_P02aTWM</a><br>\nReact Query, le server state facile pour React : <a href=\"https://www.youtube.com/watch?v=Zx6bjGtUZ0s\">https://www.youtube.com/watch?v=Zx6bjGtUZ0s</a><br>\nVite, the Webpack killer : <a href=\"https://www.youtube.com/watch?v=9R5JuyfsGwc\">https://www.youtube.com/watch?v=9R5JuyfsGwc</a><br>\nCoupable de code legacy en JS: comment s'en sortir ? : <a href=\"https://www.youtube.com/watch?v=vJUl8SCf5Yg\">https://www.youtube.com/watch?v=vJUl8SCf5Yg</a><br>\nNext.js à la rescousse de mon frontend : <a href=\"https://www.youtube.com/watch?v=LEUK066nkDo\">https://www.youtube.com/watch?v=LEUK066nkDo</a><br>\nVue 3 et son écosystème : <a href=\"https://www.youtube.com/watch?v=tJB-0iW8zqA\">https://www.youtube.com/watch?v=tJB-0iW8zqA</a><br>\nRetour d'expérience sur Remix : <a href=\"https://www.youtube.com/watch?v=awnQlPtRSeU\">https://www.youtube.com/watch?v=awnQlPtRSeU</a><br>\nHow to Create Pure CSS Games : <a href=\"https://www.youtube.com/watch?v=y9Qz3MO3h3o\">https://www.youtube.com/watch?v=y9Qz3MO3h3o</a><br>\nDévelopper des applis web pour les foldable devices : <a href=\"https://www.youtube.com/watch?v=p47z7rgRghQ\">https://www.youtube.com/watch?v=p47z7rgRghQ</a><br>\nPetit guide pratique pour commencer un design system : <a href=\"https://www.youtube.com/watch?v=GMzXZA9tiW4\">https://www.youtube.com/watch?v=GMzXZA9tiW4</a><br>\nLa dette UI : en finir avec les interfaces jetables et concevoir une UI durable, adaptable et structurée : <a href=\"https://www.youtube.com/watch?v=ykPEqGiWhxc\">https://www.youtube.com/watch?v=ykPEqGiWhxc</a><br>\nA la découverte du Material Sound Design : <a href=\"https://www.youtube.com/watch?v=lw58EIBP8D0\">https://www.youtube.com/watch?v=lw58EIBP8D0</a><br>\n<br>\nClean code JS &amp; TS :<br>\n<a href=\"https://github.com/ryanmcdermott/clean-code-javascript\">https://github.com/ryanmcdermott/clean-code-javascript</a><br>\n<a href=\"https://github.com/labs42io/clean-code-typescript\">https://github.com/labs42io/clean-code-typescript</a></p>\n<p><br>\nVous pouvez nous retrouver sur :<br>\n<a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br>\n<a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong><br>\n</strong><br>\n<a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><strong><br>\n<br>\n<br>\nMusique du générique :<br>\n</strong>Early by <a href=\"https://soundcloud.com/aka-dj-quads\">Dj Quads</a><br>\nMusic released by: <a href=\"https://www.chilloutmedia.com/\">Chill Out Records</a></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #6 - C'est quoi HTML5 ?",
+    "pubDate": "Thu, 23 Sep 2021 12:12:36 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/40730130/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-24%2Fef0ddae8-e6e8-781a-94b3-add075ad8349.mp3",
+      "length": "62542495",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on parle... d'HTML5 !<br>\n<strong><br>\n<br>\nNotes de l'épisode :<br>\n</strong><a href=\"https://developer.mozilla.org/fr/docs/orphaned/Web/Guide/HTML/HTML5\">https://developer.mozilla.org/fr/docs/orphaned/Web/Guide/HTML/HTML5</a><br/>\n<a href=\"https://html.spec.whatwg.org/multipage/\">https://html.spec.whatwg.org/multipage/</a><br/>\n<a href=\"https://www.apple.com/fr/ios/ios-15/\">https://www.apple.com/fr/ios/ios-15/</a>\n\n<strong><br>\n<br>\n<br>\nVous pouvez nous retrouver sur :<br>\n</strong><a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br>\n<a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong><br>\n</strong><br>\n<a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><strong><br>\n<br>\n<br>\nMusique du générique :<br>\n</strong>Early by <a href=\"https://soundcloud.com/aka-dj-quads\">Dj Quads</a><br>\nMusic released by: <a href=\"https://www.chilloutmedia.com/\">Chill Out Records</a></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #5 - Discovery : JAMstack",
+    "pubDate": "Thu, 22 Jul 2021 13:35:14 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/37650144/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-22%2F6c893328-3437-6ae9-f9eb-72f24e49f994.mp3",
+      "length": "53446031",
+      "type": "audio/mpeg"
+    },
+    "content": "Dans ce nouvel épisode au format Discovery, on parle de JAMstack !\nPour rappel, dans ce type de format, on vous fait découvrir un sujet ensemble en survolant les points/sujets/concepts importants.\n\nBon épisode !\n\nNotes de l'épisode :\nhttps://jamstack.org\nhttps://jamstack.org/generators\nhttps://jamstack.org/headless-cms\nhttps://jamstatic.fr\nhttps://fr.nuxtjs.org\nhttps://nextjs.org\nhttps://strapi.io\nhttps://www.storyblok.com\nhttps://www.netlify.com\nhttps://vercel.com\n\nVous pouvez nous retrouver sur :\nhttps://www.linkedin.com/in/bauzanneau/\nhttps://twitter.com/necraidan\n\nhttps://www.linkedin.com/in/denis-souron/\n\n\nMusique du générique :\nEarly by Dj Quads\nMusic released by: Chill Out Records\n"
+  },
+  {
+    "title": "Front-End Chronicles #4 - Angular 12",
+    "pubDate": "Thu, 03 Jun 2021 14:29:00 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/34772049/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-3%2Fcf488867-afa9-6b70-a72a-10b35c6fb9ff.mp3",
+      "length": "65346166",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on parle de ce que l'on pense de la nouvelle version d'Angular : la 12 !<br>\n<strong><br>\n<br>\nNotes de l'épisode :<br>\n</strong><a href=\"https://angular.io/\">https://angular.io/</a><br>\n<a href=\"https://angular.io/guide/releases\">https://angular.io/guide/releases</a><br>\n<a href=\"https://github.com/angular/angular/blob/master/CHANGELOG.md\">https://github.com/angular/angular/blob/master/CHANGELOG.md</a><br>\n<a href=\"https://dev.to/younup/l-operateur-de-chainage-optionnel-une-nouveaute-de-typescript-3-7-10a7\">https://dev.to/younup/l-operateur-de-chainage-optionnel-une-nouveaute-de-typescript-3-7-10a7</a><br>\n<a href=\"https://dev.to/younup/l-operateur-de-nullish-coalescing-une-autre-nouveaute-de-typescript-3-7-2dc1\">https://dev.to/younup/l-operateur-de-nullish-coalescing-une-autre-nouveaute-de-typescript-3-7-2dc1</a><strong><br>\n<br>\nLe super exemple avec le nullish : <br>\n</strong>{{ imageURL !== null &amp;&amp; imageURL !== undefined ? imageURL : defaultImageURL }}<br>\n{{imageURL ?? defaultImageURL }}<strong><br>\n<br>\nVous pouvez nous retrouver sur :<br>\n</strong><a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br>\n<a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong><br>\n</strong><br>\n<a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><strong><br>\n<br>\n<br>\nMusique du générique :<br>\n</strong>Early by <a href=\"https://soundcloud.com/aka-dj-quads\">Dj Quads</a><br>\nMusic released by: <a href=\"https://www.chilloutmedia.com/\">Chill Out Records</a></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #3 - Discovery : Vue.js !",
+    "pubDate": "Wed, 28 Apr 2021 08:36:10 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/32336366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-27%2Fe366e09b-c5c3-4f7a-d9e6-2930eeb31d41.mp3",
+      "length": "86623268",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on vous présente un nouveau format : Discovery !<br>\n<br>\nOn vous fait découvrir un sujet ensemble en survolant les points/sujets/concepts importants.<br>\nAujourd'hui, on parle de Vue.js !<strong><br>\n<br>\nNotes de l'épisode :<br>\n</strong><a href=\"https://vuejs.org/\"><strong>https://vuejs.org/</strong></a><strong><br>\n</strong><a href=\"https://fr.nuxtjs.org/\"><strong>https://fr.nuxtjs.org/</strong></a><strong><br>\n</strong><a href=\"https://us.vuejs.org/\"><strong>https://us.vuejs.org/</strong></a><strong><br>\n<br>\nVous pouvez nous retrouver sur :<br>\n</strong><a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br>\n<a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong><br>\n</strong><br>\n<a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><strong><br>\n<br>\n<br>\nMusique du générique :<br>\n</strong>Early by <a href=\"https://soundcloud.com/aka-dj-quads\">Dj Quads</a><br>\nMusic released by: <a href=\"https://www.chilloutmedia.com/\">Chill Out Records</a></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #2 - Est-ce qu'on a besoin de TypeScript en 2021 ?",
+    "pubDate": "Tue, 16 Mar 2021 09:00:00 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/29078001/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-15%2Fceaf29ec-f8d4-9c59-7303-9ecf7591bff9.mp3",
+      "length": "98739904",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on parle de ce que l'on pense de TypeScript et de sa potentielle utilité dans des projets contemporains.<br>\n<strong><br>\n<br>\nNotes de l'épisode :<br>\n</strong><a href=\"https://www.typescriptlang.org/play/\">https://www.typescriptlang.org/play/</a><br>\n<a href=\"https://flow.org/\">https://flow.org/</a><br>\n<a href=\"https://www.typescriptlang.org/\">https://www.typescriptlang.org/</a><br>\n<a href=\"https://babeljs.io/\">https://babeljs.io/</a><br>\n<a href=\"https://dev.to/younup/l-operateur-de-chainage-optionnel-une-nouveaute-de-typescript-3-7-10a7\">https://dev.to/younup/l-operateur-de-chainage-optionnel-une-nouveaute-de-typescript-3-7-10a7</a><strong><br>\n<br>\nVous pouvez nous retrouver sur :<br>\n</strong><a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br>\n<a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong><br>\n</strong><br>\n<a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><strong><br>\n<br>\n<br>\nMusique du générique :<br>\n</strong>Early by <a href=\"https://soundcloud.com/aka-dj-quads\">Dj Quads</a><br>\nMusic released by: <a href=\"https://www.chilloutmedia.com/\">Chill Out Records</a></p>\n"
+  },
+  {
+    "title": "Front-End Chronicles #1 - Quoi de neuf depuis Angular 5 ?",
+    "pubDate": "Tue, 16 Feb 2021 11:51:08 GMT",
+    "enclosure": {
+      "url": "https://anchor.fm/s/4c31b3c4/podcast/play/26784870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-16%2Ff3c87a25-aac4-8739-fd26-97d0071b6700.mp3",
+      "length": "106881781",
+      "type": "audio/mpeg"
+    },
+    "content": "<p>Dans cet épisode, on parle de ce que l'on a retenu des releases d'Angular 5 à Angular 11 et de ce que l'on en pense.<br>\n<strong><br>\n<br>\nVous pouvez nous retrouver sur &nbsp;:<br>\n</strong><a href=\"https://www.linkedin.com/in/bauzanneau/\">https://www.linkedin.com/in/bauzanneau/</a><br>\n<a href=\"https://twitter.com/necraidan\">https://twitter.com/necraidan</a><strong><br>\n</strong><br>\n<a href=\"https://www.linkedin.com/in/denis-souron/\">https://www.linkedin.com/in/denis-souron/</a><strong><br>\n<br>\n<br>\nMusique du générique :<br>\n</strong>Early by <a href=\"https://soundcloud.com/aka-dj-quads\">Dj Quads</a><br>\nMusic released by: <a href=\"https://www.chilloutmedia.com/\">Chill Out Records</a></p>\n"
+  }
+]

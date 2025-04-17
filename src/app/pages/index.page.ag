@@ -1,0 +1,38 @@
+<script lang="ts">
+import { slugify as _slugify } from '../../core/utils';
+import { DatePipe } from '@angular/common';
+import { HttpClient } from '@angular/common/http';
+import { signal, inject } from '@angular/core';
+import { RouterModule } from '@angular/router';
+defineMetadata({
+  imports: [DatePipe, RouterModule],
+
+});
+const episodes = signal<any[]>([]);
+const http = inject(HttpClient);
+
+http.get<any[]>('/episodes.json').subscribe((items) => {
+  episodes.set(items);
+});
+const slugify = _slugify;
+
+</script>
+
+<template>
+<h1>Front-End Chronicles – Épisodes</h1>
+
+@if (episodes().length > 0) {
+<ul>
+  @for (ep of episodes(); track ep.title) {
+  <li>
+    <a [routerLink]="['/episodes/', slugify(ep.title)]">
+      {{ ep.title }}
+    </a>
+    <small>({{ ep.pubDate | date : 'mediumDate' }})</small>
+  </li>
+  }
+</ul>
+} @else {
+<p>Chargement des épisodes...</p>
+  }
+</template>
